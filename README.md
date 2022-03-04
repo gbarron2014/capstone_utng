@@ -1,4 +1,5 @@
 # Proyecto CapStone UTNG
+[![Contribuidores][contribuidores-shield]][contributors-url]
 
 ## contenido
 <details>
@@ -66,3 +67,6 @@ Contacto.
 * [Gerardo Reyna Ibarra]()
 * [Anastasio Rodríguez García]()
 * [Gabriel Barrón Rodríguez]()
+
+[contribuidores-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
