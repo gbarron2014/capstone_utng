@@ -1,4 +1,4 @@
-# Proyecto CapStone UTNG
+# Proyecto CapStone UTNG - Project
 [![Contribuidores][contribuidores-shield]][contributors-url]
 
 ## contenido
