@@ -31,9 +31,8 @@
 ## Acerca del proyecto
 
 ### Nombre del proyecto
-**Smart Ventas**
+**Smart Ventas para el comercio de Talavera Dolores Hidalgo**
 
-** **
 ### Justificación del proyecto
 
 > El mejor servicio al cliente que podemos tener, es no tener la necesidad de usar el servicio al cliente.
@@ -72,72 +71,26 @@
     <td>1</td>
   </tr> 
   <tr>
-    <td>Sensor DHT11</td>
+    <td>Display LCD 16x2</td>
     <td>
-    <img src="https://user-images.githubusercontent.com/36056832/165996618-0b719509-9c81-405a-bef5-aabef6623a2b.png" alt="DHT11" width="100"/>
+    &nbsp;
     </td>
-    <td> <ul><li>Alimentación: 3.3 ~ 5 V<li>Rango de medición de temperatura: 0 ~ 50 °C<li>Precisión de medición de temperatura: ± 2.0 °C<li>Resolución Temperatura: 0.1 °C<li>Rango de medición de humedad: 20 % ~ 90 % RH<li>Precisión de medición de humedad: 4 % RH<li>Resolución Humedad: 1 % RH<li>Salida digital<li>Orificio de perno fijo para una fácil instalación</ul></td>
-    <td>1</td>
-  </tr> 
-    <tr>
-    <td>Sensor de Humedad Tierra LY69</td>
     <td>
-       <img src="https://user-images.githubusercontent.com/36056832/165997309-ef9301b5-2694-467e-8d97-5c2c05bd4918.png" alt="yl-69" width="100"/>
+      <ul>
+        <li>Voltaje: 5 V</li>
+        <li>Un pin de selección de registro (RS) que controla en qué parte de la memoria de la pantalla LCD está escribiendo datos. </li>
+        <li>Un pin de lectura/escritura (R/W) que selecciona el modo de lectura o el modo de escritura</li>
+        <li>Un pin Habilitar que permite escribir en los registros</li>
+        <li>8 pines de datos (D0 -D7) . Los estados de estos pines (alto o bajo) son los bits que estás escribiendo en un registro cuando escribes, o los valores que estás leyendo cuando lees,</li>
+      </ul>
     </td>
-    <td><ul><li>Voltaje de entrada: 3.3 – 5 VCD<li>A0: Salida analógica que entrega una tensión proporcional a la humedad.<li>D0: Salida digital, este módulo permite ajustar cuando estará en alto y cuando en bajo según la humedad<li>Consiste en una sonda YL - 69 con dos terminales separados adecuadamente y un módulo YL - 38 que contiene un circuito comparador LM393 SMD (de soldado superficial) muy estable, un led de encendido y otro de activación de salida digital. Este último presenta 2 pines de conexión hacia el módulo YL - 69, 2 pines para la alimentación y 2 pines de datos. VCC, GND, D0, A0</ul></td>
     <td>1</td>
   </tr> 
   <tr>
-    <td>Sensor de PH014</td>
     <td>
-     <img src="https://user-images.githubusercontent.com/36056832/166008733-66e4407a-3c8f-4bff-bff9-a997bb99a8de.png" alt="Sensor de PH" width="100"/>
     </td>
-    <td><ul><li>Modulo: PH-4502C <li>Voltaje de Alimentación: 5V <li>Corriente: 10mA <li>Dimensiones: 42 X 32 X 20 mm Electrodo E201-BNC <li>Tipo de sonda: Grado de laboratorio. <li>Tiempo de Respuesta: 5 seg <li>Rango de detección: 0 ~ 14.(acido /base) <li>Rango de temperatura:0 – 80°C <li>Temperatura de trabajo:10~50°C <li>Humedad de trabajo: 95 RH sin condensación</ul> </td>
-    <td>1</td>
-  </tr> 
-  <tr>
-    <td>Fotoresistencia</td>
-    <td><img src="https://user-images.githubusercontent.com/36056832/166063254-aa64a4c1-65ac-457a-8662-409cbf5e6833.png" width="100" /></td>
-    <td><ul><li>Función: Detector de luz<li>Chip principal: LM393<li>Voltaje de alimentación mínimo: 3.3 V<li>Voltaje de alimentación máximo: 5 V<li>Tipo de salida: Digital<li>Distribución de pines:<ul><li>Pin de alimentación VCC: 3.3 V - 5 V<li>Pin de alimentación 0 V: GND<li>Pin de OUT: Salida digital<li>Indicador de alimentación: LED rojo<li>Indicador de salida digital: LED verde<li><li>Dimensiones: 41 mm X 14 mm<li>Número de pines: 3
-      Voltaje: 3.3v ~ 5v<li>Comparador LM393<li>Sensibilidad Ajustable</ul></td>
-    <td>1</td>
-  </tr> 
-  <tr>
-    <td>Sensor de Lluvia</td>
-    <td>
-    <img src="https://user-images.githubusercontent.com/36056832/166009366-c9d2c965-0ec4-49e9-9104-ea9cdb06403b.png" alt="Sensor de lluvia" width="100" />
-   </td>
-    <td><ul><li>Tensión de funcionamiento: 3.3V -5 V<li>Sensibilidad ajustable por potenciómetro<li>Modo de salida dual : analógica y digital<li>LED rojo – indicador de encendido<li>LED verde – indicador de salida de conmutación digital<li>Medidas PCB: 3 x 1.5 cm<li>Medidas de sensor: 5.4 x 3.9 cm</ul></td>
-    <td>1</td>
-  </tr> 
+  </tr>
 
-  <tr>
-    <td>Electro Válvula de pulso +/-4.5V para control de flujo con ahorro de energía para tuberías de 1/2 pulgada cobre</td>
-    <td><img src="https://user-images.githubusercontent.com/36056832/166064811-69640693-dd5d-4715-86e5-f49ec7a59ae4.png" width="100"/></td>
-    <td><ul><li>Totalmente metálico<li>Control de apertura o de cierre con un sólo pulso de &gt;30ms<li>Impedancia de entrada: 9 Ohms +/-5% (@20°C)<li>Temperatura de trabajo: 1 a 80°C<li>Voltaje de trabajo: 4.5V<li>Presión de agua: 0.02 a 1MPa<li>Para apertura, es pulso POSITIVO y para cierre es pulso NEGATIVO</ul></td>
-    <td>1</td>
-  </tr> 
-  <tr>
-    <td>Motor a pasos</td>
-    <td><img src="https://user-images.githubusercontent.com/36056832/166065075-3de31310-6500-41a1-a5a0-23205cb3ebb4.png" width="100"/>
-</td>
-    <td><ul><li>Voltaje: 5V<li>Consumo corriente: 55mA aprox.<li>Ángulo de paso: 5.625 x 1/64.<liReducción: 1/64.<li>Puede ser controlado por un chip ULN2003.<li>También se puede conectar como 2 fases para usar.<li>Dimensiones: 31 * 27 * 19 mm<li>Peso: 35g.</ul></td>
-    <td>4</td>
-  </tr> 
-    <tr>
-    <td>Relevador</td>
-    <td><img src="https://user-images.githubusercontent.com/36056832/166065203-9a1ea36b-8948-4ecb-adbe-8bfd1d670b33.png" width="100" /></td>
-      <td><ul><li>Número de serie: 2ph63083a</li><li>Voltaje de operación: 5V DC</li><li>Máxima salida del relevador (Voltaje/ Corriente): DC 30V/10A, AC 250V/10A</li><li>Rangos de corriente: 10 A (NO) y 5 A (NC)</li><li>Protocolo de comunicación: TTL (3.3 V o 5 V)<li>Tiempo de acción: 10 ms/ 5 ms</li><li>
-        Tamaño : 75 mm x 55 mm x 19.3 mm (largo,ancho, alto)</li><li>Peso: 61 gramos</li><li>Pines:Input: : IN1, IN2, IN3, IN4 , VCC, GND
-Output: Conector hacia la carga(ejemplo, bombilla, bomba de agua,etc). La terminal de relés son COM, NO y NC (Común, Normalmente Abierto y Normalmente Cerrado  respectivamente) están en la  terminal de tornillo,Jumper JDVCC, VCC y GND</li></ul></td>
-    <td>4</td>
-  </tr> 
-    <tr>
-    <td>Motor CD</td>
-    <td><img src="https://user-images.githubusercontent.com/36056832/166065332-364f3cd0-4f18-44f7-85aa-6ad243851ad4.png" width="100" /></td>
-      <td><ul><li>Velocidad De 15000 a 18000 RPM</li><li>Motor 25 x 15 mm</li><li>Engrane</li><li>Peso 16g</li></td>
-    <td>4</td>
-  </tr> 
 </table>
 
 #### Requerimientos
