@@ -45,11 +45,11 @@
 
 ### Objetivo del proyecto: 
 
-> Apoyar a adultos mayores con limitaciónes físicas por la edad mediante un sistema de IoT para riego semiautomatizado de plantas en el hogar.
+> Impulsar el incremento de  ventas de los pequeños comercios de comercializan Talavera y Cerámica mediante el uso de la tecnología del Internet de las Cosas.
 
 ### Descripción general del proyecto
 
-> Este proyecto consiste generar un prototipo que propone optimizar el riego y cuidado de plantas a través del análisis de datos tomados por los sensores, validando decisiones que actúen en los lugares donde los usuarios tienen difícil acceso automatizando tareas para personas adultas mayores.
+> Este proyecto consiste generar un prototipo que propone incrementar ventas en los comercios de Talavera a través del análisis de datos tomados por los sensores, en el momento que un cliente o turista ingresa al establecimiento.
 
 
 ### Material de uso:
