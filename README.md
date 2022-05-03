@@ -90,49 +90,25 @@
     <td>
     </td>
   </tr>
-
+  <tr>
+    <td>
+    </td>
+  </tr>
 </table>
 
 #### Requerimientos
-<table>
-  <tr>
-    <th>No.</th>
-      <th>Requerimiento</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Medición de variables a partir de sensores de temperatura, humedad, PH, lluvia, luminosidad.</td>
-  </tr>
-  
-  <tr>
-    <td>2</td>
-    <td>Almacenamiento de datos de manera continua y permanente.</td>
-  </tr>
-  
-  <tr>
-    <td>3</td>
-    <td>Graficar los datos almacenados para su análisis en línea</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Activar el riego automatizado de acuerdo al analisis de datos.</td>
-  </tr>
-  
-  <tr>
-    <td>5</td>
-    <td>Control a partir de aplicación móvil de riego, sombra y protección.</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>Notificar alertas a partir del estado de las variables que involucren un riesgo para la planta.</td>
-  </tr>
-</table>
+|No.  |Requerimiento  |
+|---  |-------------  |
+| 1   |El sistema deberá permitir dar la bienvenida a cliente o turista a través de lectura de rostro, mediante un Display o un repetidor de Voz. El empleado recibirá una notificación para su atención.               |
+| 2   |Mediante lectura de código QR a través de dispositivo móvil el cliente o turista podrá observar la descripción del producto. |
+| 3   |Mediante realidad aumentada a través de dispositivo móvil el cliente o turista podrá interactuar con el producto.|
+| 4   |El cliente o visitante podrá solicitar la atención del empleado a través de su dispositivo móvil ya sea para muestra del producto.|
+| 5   |El cliente o visitante podrá registrar su venta, responder si fue atendido, etc.|
+| 6   |El gerente o dueño del negocio podrá ver estadísticas como: Número de visitantes que llegaron al establecimiento. Número de visitantes que realizaron compra. Encuesta de satisfacción de salida.  |
 
 #### Diagrama inicial
 
-![image](https://user-images.githubusercontent.com/96089377/165986643-432dfef7-ffff-4755-a768-ecdb5e8252b4.png)
-
-### Prototipo de pared verde
+### Prototipo
 
 
 <!-- Construido con -->
