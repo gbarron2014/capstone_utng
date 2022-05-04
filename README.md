@@ -53,7 +53,6 @@
 
 
 ### Material de uso:
-
 <table> <tr> <th>Componente</th><th>Imagen</th><th>Descripción</th><th>Cantidad</th></tr>
   <tr>
     <td>Raspberry Pi 4</td>
@@ -86,13 +85,44 @@
     <td>1</td>
   </tr> 
   <tr>
+    <td>Lector QR </td>
+    <td>&nbsp </td>
     <td>
-    </td>
+      <ul>
+        <li>Dispositivo móvil con sistema operativo Android 8.0 o superior.</li>
+        <li>App para lectura de QR.</li>
+        <li>Observar detalles y características de producto.</li>
+      </ul>
+      </td>
+    <td>2</td>
   </tr>
   <tr>
+    <td>App de comercio de AR </td>
+    <td>&nbsp</td>
     <td>
+      <ul>
+        <li>Dispositivo móvil con sistema operativo Android 8.0 o superior.</li>
+        <li>App de establecimiento.</li>
+        <li>Interactuar con detalles y características de producto.</li>
+      </ul>    
     </td>
+    <td>&nbsp </td>
   </tr>
+  <tr>
+    <td>ISD1820 </td>
+    <td></td>
+    <td>
+      <ul>
+        <li>Tipo: Módulo grabador de voz y parlante</li>
+        <li>Dimensiones: 42.87mmx 38.55mm x 11.25mm</li>
+        <li>Voltaje de funcionamiento: 3V a 5V DC</li>
+        <li>Altavoz: 8Ω 0.5 W</li>
+        <li>Bocina de 8ohms a 0.5W</li>
+      </ul>
+    </td>
+    <td>1</td>
+  </tr> 
+
 </table>
 
 #### Requerimientos
@@ -106,7 +136,7 @@
 | 6   |El gerente o dueño del negocio podrá ver estadísticas como: Número de visitantes que llegaron al establecimiento. Número de visitantes que realizaron compra. Encuesta de satisfacción de salida.  |
 
 #### Diagrama inicial
-![image](https://user-images.githubusercontent.com/8560750/166729380-4ae15e14-5845-42b6-8bea-75a4fb7cd7cd.png)
+![image](https://user-images.githubusercontent.com/8560750/166749650-89fba768-4bbc-45c4-93d3-df9e5d08ad4c.png)
 
 
 ### Prototipo
