@@ -106,7 +106,7 @@
         <li>Interactuar con detalles y características de producto.</li>
       </ul>    
     </td>
-    <td>&nbsp </td>
+    <td>2 </td>
   </tr>
   <tr>
     <td>ISD1820 </td>
