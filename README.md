@@ -72,7 +72,7 @@
   </tr> 
   <tr>
     <td>Display LCD 16x2</td>
-    <td></td>
+    <td><img src="https://user-images.githubusercontent.com/8560750/166756741-813b8a4a-d952-4e20-aa89-b7699ffeb30d.jpg" alt="Lcd Display" width="100"/></td>
     <td>
       <ul>
         <li>Voltaje: 5 V</li>
@@ -86,7 +86,7 @@
   </tr> 
   <tr>
     <td>Lector QR </td>
-    <td>&nbsp </td>
+    <td><img src="https://user-images.githubusercontent.com/8560750/166768412-b0cddffc-1a08-49cf-a9d5-4d46b3501678.jpg" width="100" alt="Lector de código QR"/> </td>
     <td>
       <ul>
         <li>Dispositivo móvil con sistema operativo Android 8.0 o superior.</li>
@@ -98,7 +98,7 @@
   </tr>
   <tr>
     <td>App de comercio de AR </td>
-    <td>&nbsp</td>
+    <td><img src="https://user-images.githubusercontent.com/8560750/166763820-c178c82a-4f1f-47fb-9e15-34011bad59f1.jpg" width="100" alt="App de realidad aumentada"/></td>
     <td>
       <ul>
         <li>Dispositivo móvil con sistema operativo Android 8.0 o superior.</li>
@@ -110,7 +110,7 @@
   </tr>
   <tr>
     <td>ISD1820 </td>
-    <td></td>
+    <td><img src="https://user-images.githubusercontent.com/8560750/166772317-71c55285-568d-478c-aa4a-080df56c719b.jpg" width="100" alt="ISD1820"/></td>
     <td>
       <ul>
         <li>Tipo: Módulo grabador de voz y parlante</li>
