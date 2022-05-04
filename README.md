@@ -73,9 +73,7 @@
   </tr> 
   <tr>
     <td>Display LCD 16x2</td>
-    <td>
-    &nbsp;
-    </td>
+    <td></td>
     <td>
       <ul>
         <li>Voltaje: 5 V</li>
@@ -100,11 +98,11 @@
 #### Requerimientos
 |No.  |Requerimiento  |
 |---  |-------------  |
-| 1   |El sistema deberá permitir dar la bienvenida a cliente o turista a través de lectura de rostro, mediante un Display o un repetidor de Voz. El empleado recibirá una notificación para su atención.               |
-| 2   |Mediante lectura de código QR a través de dispositivo móvil el cliente o turista podrá observar la descripción del producto. |
-| 3   |Mediante realidad aumentada a través de dispositivo móvil el cliente o turista podrá interactuar con el producto.|
-| 4   |El cliente o visitante podrá solicitar la atención del empleado a través de su dispositivo móvil ya sea para muestra del producto.|
-| 5   |El cliente o visitante podrá registrar su venta, responder si fue atendido, etc.|
+| 1   |El sistema deberá permitir dar la bienvenida al cliente o visitante a través de lectura de rostro, si la persona es un cliente mediante un Display y/o un repetidor de Voz dará la bienvenida. A su vez, el empleado recibirá una notificación a su dispositivo móvil para su atención.               |
+| 2   |Mediante lectura de código QR a través de dispositivo móvil la persona podrá observar la descripción del producto. |
+| 3   |Mediante realidad aumentada a través de dispositivo móvil el cliente o turista podrá interactuar con las características y uso del producto.|
+| 4   |La persona podrá solicitar la atención del empleado a través de su dispositivo móvil ya sea para muestra del producto o venta del mismo.|
+| 5   |La persona podrá responder la encuesta de salida si fue agradable el servicio al cliente, etc.|
 | 6   |El gerente o dueño del negocio podrá ver estadísticas como: Número de visitantes que llegaron al establecimiento. Número de visitantes que realizaron compra. Encuesta de satisfacción de salida.  |
 
 #### Diagrama inicial
